@@ -1,0 +1,19 @@
+Agent A1:
+  Start [27, 58] -> Warehouse [16, 51] (d=13.04) -> Dest [26, 58] (d=12.21) Delay=0.6
+
+Agent A2:
+  Start [47, 42] -> Warehouse [48, 43] (d=1.41) -> Dest [58, 45] (d=10.2) Delay=1.39
+  Start [58, 45] -> Warehouse [89, 16] (d=42.45) -> Dest [96, 21] (d=8.6) Delay=4.75
+  Start [96, 21] -> Warehouse [89, 16] (d=8.6) -> Dest [88, 21] (d=5.1) Delay=3.97
+  Start [88, 21] -> Warehouse [89, 16] (d=5.1) -> Dest [91, 11] (d=5.39) Delay=3.24
+  Start [91, 11] -> Warehouse [89, 16] (d=5.39) -> Dest [80, 14] (d=9.22) Delay=3.76
+
+Agent A3:
+  Start [57, 62] -> Warehouse [58, 39] (d=23.02) -> Dest [56, 34] (d=5.39) Delay=1.9
+  Start [56, 34] -> Warehouse [48, 43] (d=12.04) -> Dest [49, 40] (d=3.16) Delay=2.1
+  Start [49, 40] -> Warehouse [58, 39] (d=9.06) -> Dest [60, 45] (d=6.32) Delay=3.91
+  Start [60, 45] -> Warehouse [48, 43] (d=12.17) -> Dest [39, 42] (d=9.06) Delay=0.08
+  Start [39, 42] -> Warehouse [58, 39] (d=19.24) -> Dest [67, 48] (d=12.73) Delay=0.11
+
+Agent A4:
+
